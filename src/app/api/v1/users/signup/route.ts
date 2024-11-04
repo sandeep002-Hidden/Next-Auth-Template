@@ -33,4 +33,3 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ message: "Error" ,success:false});
   }
 }
-// C:\Users\sandeep mohapatra\OneDrive\Desktop\tests\MetaVerse\frontend\src\app\api\users\map
